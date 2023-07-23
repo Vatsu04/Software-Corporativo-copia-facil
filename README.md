@@ -1,5 +1,6 @@
 
-#Sistema de Gestão de Impressão Copia Facil
+Sistema de Gestão de Impressão Copia Facil
+
 O Sistema de Gestão de Impressão Copia Facil é um aplicativo de desktop baseado em Java, projetado especificamente para empresas de impressão para otimizar suas operações e fornecer um serviço melhor aos seus clientes. Este aplicativo é uma solução abrangente para atender às necessidades da Copia Facil, uma empresa de impressão, e potencialmente, de outros negócios similares.
 
 Funcionalidades
